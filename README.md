@@ -361,4 +361,13 @@ Target Completion - February 2027
 
 **Aditi Negi**
 
-This repository documents my journey of learning Platform Engineering, DevOps, Cloud Computing, and AI by building a production-style application from the ground up.
+## My Journey
+
+OMEGA is more than a software project.
+
+It is a record of my journey into Platform Engineering and DevOps.
+The repository begins with the fundamentals of Git, Linux, and version control, then gradually evolves into a production-style cloud-native platform.
+Each milestone represents a new concept I learned, a new challenge I solved, and a new capability added to the project.
+Rather than presenting only the final result, OMEGA documents the complete engineering journey from the very beginning.
+
+
